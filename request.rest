@@ -2,5 +2,5 @@ POST http://localhost:3000/
 Content-Type: application/json
 
 {
-    "location": "Kochi, kerala"
+    "location": "Alapuzha, kerala"
 }
